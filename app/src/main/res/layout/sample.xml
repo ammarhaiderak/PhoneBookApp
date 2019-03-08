@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/groupAlpha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A"
+        android:textSize="24sp" />
+
+    <ListView
+        android:id="@+id/mylv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadeScrollbars="false"
+        android:fastScrollAlwaysVisible="true"
+        android:focusableInTouchMode="true"
+        android:scrollbars="horizontal|vertical"
+        android:visibility="visible"
+        tools:focusable="auto"
+        tools:overScrollMode="always"
+        tools:verticalScrollbarPosition="left"
+        tools:visibility="visible" />
+
+</LinearLayout>

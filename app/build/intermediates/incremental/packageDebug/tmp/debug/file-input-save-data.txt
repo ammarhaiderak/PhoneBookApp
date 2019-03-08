@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sun Oct 28 13:52:47 PKT 2018
+1.base=C\:\\Projects\\Ass1Fin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\114
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Projects\\Ass1Fin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\117
+3.set=DEX
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=DEX
+0.path=classes.dex
+3.base=C\:\\Projects\\Ass1Fin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\116
+0.set=DEX
+0.base=C\:\\Projects\\Ass1Fin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\115
+2.baseType=DIRECTORY
+1.path=classes.dex
